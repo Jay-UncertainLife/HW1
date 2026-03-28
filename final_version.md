@@ -6,7 +6,7 @@ The area that interests me most is investment and business analysis. I care abou
 
 Generative AI is useful in this area because it helps me move through early work more efficiently. When I need to read a large amount of material, it can help me identify the main points and turn scattered information into a workable starting draft. That support is helpful because it leaves more time for the part that matters most, which is deciding what is relevant, what is weak, and what deserves closer attention.
 
-For example, I may use generative AI when I begin learning about a new sector. It can help me organise industry articles into a short overview so I can see the main trend more quickly. When I look at a company, it can help me organise annual report notes, business descriptions, and market commentary into a more readable structure. In business communication, it can also help me prepare a first version of an investor update or a brand message, after which I can revise the wording based on purpose, audience, and judgement.
+For example, I may use generative AI when I begin learning about a new sector. It can help me organise industry articles into a short overview so I can see the main trend more quickly. 
 
 What I find most important is that generative AI should not replace thinking. It is most useful when it supports the first stage of understanding and leaves the final judgement to the user. In investment and business work, speed is helpful, but accuracy, context, and decision quality matter more.
 

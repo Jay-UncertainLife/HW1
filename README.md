@@ -43,16 +43,9 @@ git commit -m "Add README for homework repository"
 
 ## Commit History Summary
 
-The current recorded commit history in this repository is:
+The repository records the development of the assignment from the assistant draft to the manually revised final version. A README commit will be added after this file is saved and committed.
+
+Current commits:
 
 - `1fda4c9` - Add assistant-generated draft
 - `74cc8c0` - Add manually revised final version
-
-These commits show the main development of the assignment from draft to revision. The README is being added as the documentation step for the repository.
-
-## Video Link
-
-The video has not been recorded yet.  
-The unlisted YouTube or Vimeo link will be added here later.
-
-`Video link: to be added later`
